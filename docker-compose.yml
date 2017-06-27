@@ -1,6 +1,7 @@
 version: '2'
 services:
   webapp:
+    image: suelengc/profile-manager:latest
     build:
       context: .
       dockerfile: build/docker/Dockerfile
@@ -17,7 +18,7 @@ services:
       - "3306:3306"
     environment:
       MYSQL_ROOT_PASSWORD: "root"
-      MYSQL_DATABASE: logins 
+      MYSQL_DATABASE: profile_manager
   
   redis:
     image: redis

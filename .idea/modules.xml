@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Documents-profile-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Documents-profile-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/profile-manager.iml" filepath="$PROJECT_DIR$/profile-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile-manager_main.iml" filepath="$PROJECT_DIR$/.idea/modules/profile-manager_main.iml" group="profile-manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/profile-manager_test.iml" filepath="$PROJECT_DIR$/.idea/modules/profile-manager_test.iml" group="profile-manager" />
+    </modules>
+  </component>
+</project>
